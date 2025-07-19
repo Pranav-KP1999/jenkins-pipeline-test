@@ -1,1 +1,2 @@
 This is test 2 file in jenkins-pipeline-test repository on develop branch.
+New line.
